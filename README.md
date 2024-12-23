@@ -28,7 +28,7 @@ Easy peasy:
 
   5. Check the output directory (`/sdcard/Documents/archived_websites`) to see if the export went well. If it didn't, feel free to [create an issue](https://github.com/Foo-Manroot/websites-archiver/issues) on this repo.
 
-![I'm so obviously not a UI designer](Screenshot_WebsitesArchiver.png)
+<img alt="I'm so obviously not a UI designer" src="Screenshot_WebsitesArchiver.png" height="700px"/>
 
 
 # Limitations
