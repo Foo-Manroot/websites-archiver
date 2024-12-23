@@ -17,11 +17,16 @@ In the end I simply injected JS into a WebView; but my original plan was to some
 # Usage
 
 Easy peasy:
-    1. Enter a URL on the text box.
-    2. Press "Load website" and wait for it to finish (there should be a notification).
-    3. Export to markdown or screenshot the site.
-    4. Wait for the notifications to appear. In the case of screenshotting, it may take a good couple of minutes, depending on your hardware. You can leave the app in the background running while it generates the exports.
-    5. Check the output directory (`/sdcard/Documents/archived_websites`) to see if the export went well. If it didn't, feel free to [create an issue](https://github.com/Foo-Manroot/websites-archiver/issues) on this repo.
+
+  1. Enter a URL on the text box.
+
+  2. Press "Load website" and wait for it to finish (there should be a notification).
+
+  3. Export to markdown or screenshot the site.
+
+  4. Wait for the notifications to appear. In the case of screenshotting, it may take a good couple of minutes, depending on your hardware. You can leave the app in the background running while it generates the exports.
+
+  5. Check the output directory (`/sdcard/Documents/archived_websites`) to see if the export went well. If it didn't, feel free to [create an issue](https://github.com/Foo-Manroot/websites-archiver/issues) on this repo.
 
 
 # Limitations
